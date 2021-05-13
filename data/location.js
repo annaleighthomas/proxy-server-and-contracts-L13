@@ -18,7 +18,7 @@ export default
     type: 'city',
     importance: 0.753565717433768,
     icon: 'https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png'
-  }
+  },
   {
     place_id: '236025890',
     licence: 'https://locationiq.com/attribution',
